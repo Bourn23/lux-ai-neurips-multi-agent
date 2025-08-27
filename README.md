@@ -104,15 +104,6 @@ pip install matplotlib pandas  # For training visualization
 - **Team Coordination**: Multi-unit strategy and positioning
 - **Risk Assessment**: Balancing exploration vs exploitation
 
-## 📊 Training Results
-
-The project includes comprehensive training infrastructure with:
-
-- **Model Checkpointing**: Regular saving of training progress (`checkpoints/`)
-- **Performance Metrics**: Win rates, energy efficiency, and relic discovery rates
-- **Visualization Tools**: Training curves and game replay analysis
-- **Hyperparameter Tuning**: Automated optimization of learning parameters
-
 ## 🔧 Technical Implementation
 
 ### State Representation
@@ -138,34 +129,6 @@ state = {
 - **Energy Efficiency**: Bonus for optimal resource usage
 - **Exploration Bonus**: Rewards for discovering new areas
 - **Combat Effectiveness**: Rewards for successful enemy engagement
-
-## 📈 Performance Optimization
-
-### Training Optimizations
-- **Parallel Environment**: Multi-environment training for faster convergence
-- **Experience Replay**: Efficient memory utilization with replay buffers
-- **Target Networks**: Stable Q-learning with periodic target updates
-- **Gradient Clipping**: Prevents exploding gradients during training
-
-### Inference Optimizations
-- **Model Compression**: Optimized models for competition submission
-- **Efficient State Processing**: Fast observation encoding and action selection
-- **Memory Management**: Optimized for Kaggle competition constraints
-
-## 🏆 Competition Results
-
-This implementation demonstrates strong performance in:
-- **Strategic Planning**: Long-term match planning and adaptation
-- **Tactical Execution**: Efficient unit coordination and combat
-- **Resource Management**: Optimal energy utilization strategies
-- **Exploration**: Systematic map exploration and relic discovery
-
-## 🔮 Future Enhancements
-
-- **Multi-Agent Communication**: Coordination protocols between units
-- **Meta-Learning**: Adaptation to different opponent strategies
-- **Advanced Neural Architectures**: Transformer-based attention mechanisms
-- **Hierarchical Reinforcement Learning**: Multi-level strategy decomposition
 
 ## 📚 References
 

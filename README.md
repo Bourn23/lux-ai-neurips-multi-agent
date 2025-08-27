@@ -136,7 +136,6 @@ state = {
 - [Proximal Policy Optimization Paper](https://arxiv.org/abs/1707.06347)
 - [Deep Q-Networks](https://arxiv.org/abs/1312.5602)
 - [Behavior Trees in AI](https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control))
-- [LUX AI Winning Solution] ()
 
 ## 🤝 Contributing
 
